@@ -18,7 +18,7 @@ Here’s a quick peek into my GitHub activity and top programming languages:
 ![Miftah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miftt&show_icons=true&theme=radical)
 
 ### 🛠️ My Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miftt&theme=radical&layout_donut-vertical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miftt&show_icons=true&theme=radical&layout=compact)
 
 ---
 
